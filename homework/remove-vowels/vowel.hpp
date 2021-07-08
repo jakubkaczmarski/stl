@@ -1,6 +1,5 @@
 #pragma once
 #include <ctype.h>
-#include <algorithm>
 #include <string>
 #include <vector>
 
